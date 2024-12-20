@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a data scientist with extensive experience in engineering analysis, computational modeling, and machine learning.
+My superpowers include creativity, attention to details, adaptability, and collaborative attitude. 
+In my projects, I commonly use Python, Java, SQL, Pandas, Matplotlib, Seaborn, scikit-Learn, Statsmodels, TensorFlow, etc. 
+Please reach me here: https://www.linkedin.com/in/kamranmakarian/
+
 <!--
 **KamranMakarian/KamranMakarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
