@@ -2,7 +2,7 @@
 
 I am a data scientist with extensive experience in engineering analysis, computational modeling, and machine learning.
 My superpowers include creativity, attention to details, adaptability, and collaborative attitude. 
-In my projects, I commonly use Python, Java, SQL, Pandas, Matplotlib, Seaborn, scikit-Learn, Statsmodels, TensorFlow, etc. 
+In my projects, I commonly use Python, Java, SQL, Pandas, Matplotlib, Seaborn, scikit-Learn, Statsmodels, TensorFlow, Azure, etc. 
 Please reach me here: https://www.linkedin.com/in/kamranmakarian/
 
 <!--
